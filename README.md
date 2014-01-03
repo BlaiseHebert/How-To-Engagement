@@ -1,0 +1,4 @@
+How-To-Engagement
+=================
+
+An engagement 101 for those looking to consult, collaborate, or build community.
